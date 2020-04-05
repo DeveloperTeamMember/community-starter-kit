@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This will help you with many things!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+<uo>
+  *Improves
+  </uo>
+ 
 
 ## Getting started
 
